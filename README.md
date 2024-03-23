@@ -1,5 +1,3 @@
-
-
 # Font Awesome Pro
 ------------------------
 Like it? Fork it.
