@@ -1,2 +1,1 @@
-# fontawesome-pro
-fontawesome-pro
+Like it? Fork it.
